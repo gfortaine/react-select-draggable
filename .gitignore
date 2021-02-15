@@ -1,9 +1,5 @@
-/coverage
-/demo/dist
-/demo/node_modules
-/dist
-/node_modules
-npm-debug.log*
-.idea
-.npmrc
-.cache
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
